@@ -71,7 +71,7 @@ body{
 }
 
 .info .titleinfo{
-    color: #fff8f0;
+    color:  whitesmoke;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bolder;
     font-size: large;
@@ -80,7 +80,7 @@ body{
 }
 
 .info .titleprofile{
-    color: black;
+    color: whitesmoke;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bolder;
     font-size: large;
@@ -89,7 +89,7 @@ body{
 }
 
 .info .infoinfo{
-    color: black;
+    color: #FDFEFE;
     font-family: 'Roboto Condensed', sans-serif;
     font-weight: bolder;
     font-size: large;
